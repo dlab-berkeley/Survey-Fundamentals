@@ -24,12 +24,13 @@ This workshop does not cover the following:
 # Additional Resources
 
 Check out the following resources to learn more about Surveys:
-#### Books
+
+Books:
 * [Designing Quality Survey Questions](https://us.sagepub.com/en-us/nam/designing-quality-survey-questions/book249048#description). by Sheila B. Robinson and Kimberly Firth Leonard. This book shows readers how to craft high quality, precisely-worded survey questions that will elicit rich, nuanced, and ultimately useful data to help answer their research or evaluation questions
 * [The Coding Manual for Qualitative Researchers](https://uk.sagepub.com/en-gb/eur/the-coding-manual-for-qualitative-researchers/book273583) by Johnny Saldana. This book highlights the steps to achieving qualitative coding and provides clear, insightful guidance for qualitative researchers at different stages in their research journey.
 * [Measurement Theory and Applications for the Social Sciences](https://www.guilford.com/books/Measurement-Theory-and-Applications-for-the-Social-Sciences/Deborah-Bandalos/9781462532131) by Deborah L. Bandalos. This book equips students and researchers to make accurate decisions on the selection, administration, scoring, interpretation, and development of measurement tools
 
-#### Additional free downloadable resources
+Additional free downloadable resources:
 * [Sampling, Coverage, and Nonresponse Tip Sheet:](https://psr.iq.harvard.edu/book/sampling-coverage-and-nonresponse-tip-sheet): help you understand how to think the population that a survey represents
 * [Managing and Manipulating Survey Data: A Beginners Guide](https://psr.iq.harvard.edu/book/managing-and-manipulating-survey-data-beginners-guide): provides an overview of basic steps to transform survey questions into data that can be analyzed
 
