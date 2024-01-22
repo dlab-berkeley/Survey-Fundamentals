@@ -1,4 +1,4 @@
-# D-Lab [Survey Fundamentals] Workshop
+# D-Lab Survey Fundamentals Workshop
 
 This repository contains the materials for D-Lab [Survey Fundamentals](https://drive.google.com/drive/folders/1BOKg9e3zvRBbVsdYpj4mHbrhBqLUsLyP).
 
