@@ -30,11 +30,13 @@ This workshop does not cover the following:
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
-
-* [Designing Quality Survey Questions]([https://dlab.berkeley.edu/events/qualtrics-fundamentals/2024-02-20](https://us.sagepub.com/en-us/nam/designing-quality-survey-questions/book249048#description)). by Sheila B. Robinson and Kimberly Firth Leonard. This book shows readers how to craft high quality, precisely-worded survey questions that will elicit rich, nuanced, and ultimately useful data to help answer their research or evaluation questions
+Check out the following resources to learn more about Surveys:
+#### Books
+* [Designing Quality Survey Questions](https://us.sagepub.com/en-us/nam/designing-quality-survey-questions/book249048#description). by Sheila B. Robinson and Kimberly Firth Leonard. This book shows readers how to craft high quality, precisely-worded survey questions that will elicit rich, nuanced, and ultimately useful data to help answer their research or evaluation questions
 * [The Coding Manual for Qualitative Researchers](https://uk.sagepub.com/en-gb/eur/the-coding-manual-for-qualitative-researchers/book273583) by Johnny Saldana. This book highlights the steps to achieving qualitative coding and provides clear, insightful guidance for qualitative researchers at different stages in their research journey.
 * [Measurement Theory and Applications for the Social Sciences](https://www.guilford.com/books/Measurement-Theory-and-Applications-for-the-Social-Sciences/Deborah-Bandalos/9781462532131) by Deborah L. Bandalos. This book equips students and researchers to make accurate decisions on the selection, administration, scoring, interpretation, and development of measurement tools
+
+#### Additional free downloadable resources
 * [Sampling, Coverage, and Nonresponse Tip Sheet:](https://psr.iq.harvard.edu/book/sampling-coverage-and-nonresponse-tip-sheet): help you understand how to think the population that a survey represents
 * [Managing and Manipulating Survey Data: A Beginners Guide](https://psr.iq.harvard.edu/book/managing-and-manipulating-survey-data-beginners-guide): provides an overview of basic steps to transform survey questions into data that can be analyzed
 
@@ -45,19 +47,13 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
-
-Here are other [Language] workshops offered by the D-Lab:
-
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
 
 **Provide a list of workshops here.**
 
 # Contributors
+* Severin Saenz
+* Elaine Luo
+* Vanessa Navarro Rodriguez
 
 **Provide a list of contributors here, with links to their webpages (D-Lab or
 private).**
