@@ -31,7 +31,7 @@ Books:
 * [Measurement Theory and Applications for the Social Sciences](https://www.guilford.com/books/Measurement-Theory-and-Applications-for-the-Social-Sciences/Deborah-Bandalos/9781462532131) by Deborah L. Bandalos. This book equips students and researchers to make accurate decisions on the selection, administration, scoring, interpretation, and development of measurement tools
 
 Additional free downloadable resources:
-* [Sampling, Coverage, and Nonresponse Tip Sheet:](https://psr.iq.harvard.edu/book/sampling-coverage-and-nonresponse-tip-sheet): help you understand how to think the population that a survey represents
+* [Sampling, Coverage, and Nonresponse Tip Sheet](https://psr.iq.harvard.edu/book/sampling-coverage-and-nonresponse-tip-sheet): help you understand how to think the population that a survey represents
 * [Managing and Manipulating Survey Data: A Beginners Guide](https://psr.iq.harvard.edu/book/managing-and-manipulating-survey-data-beginners-guide): provides an overview of basic steps to transform survey questions into data that can be analyzed
 
 
